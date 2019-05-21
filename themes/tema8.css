@@ -224,10 +224,10 @@ html .ui-alt-icon .ui-radio-off:after {
 html .ui-bar-a .ui-bar-inherit,
 html .ui-body-a .ui-bar-inherit,
 html body .ui-group-theme-a .ui-bar-inherit {
-	background-color: #f19f42 /*{a-bar-background-color}*/;
-	border-color: #845724 /*{a-bar-border}*/;
-	color: #000000 /*{a-bar-color}*/;
-	text-shadow: 0 /*{a-bar-shadow-x}*/ 1px /*{a-bar-shadow-y}*/ 0 /*{a-bar-shadow-radius}*/ #eeeeee /*{a-bar-shadow-color}*/;
+	background-color: #060cbf /*{a-bar-background-color}*/;
+	border-color: #0810FF /*{a-bar-border}*/;
+	color: #ffffff /*{a-bar-color}*/;
+	text-shadow: 0 /*{a-bar-shadow-x}*/ 1px /*{a-bar-shadow-y}*/ 0 /*{a-bar-shadow-radius}*/ #444444 /*{a-bar-shadow-color}*/;
 	font-weight: bold;
 }
 .ui-bar-a {
@@ -238,8 +238,8 @@ html body .ui-group-theme-a .ui-bar-inherit {
 .ui-overlay-a,
 .ui-page-theme-a,
 .ui-page-theme-a .ui-panel-wrapper {
-	background-color: #733800 /*{a-page-background-color}*/;
-	border-color: #733800 /*{a-page-border}*/;
+	background-color: #a1602e /*{a-page-background-color}*/;
+	border-color: #a1602e /*{a-page-border}*/;
 	color: #ffffff /*{a-page-color}*/;
 	text-shadow: 0 /*{a-page-shadow-x}*/ 1px /*{a-page-shadow-y}*/ 0 /*{a-page-shadow-radius}*/ #444444 /*{a-page-shadow-color}*/;
 }
@@ -250,10 +250,10 @@ html .ui-bar-a .ui-body-inherit,
 html .ui-body-a .ui-body-inherit,
 html body .ui-group-theme-a .ui-body-inherit,
 html .ui-panel-page-container-a {
-	background-color: #b56210 /*{a-body-background-color}*/;
-	border-color: #633508 /*{a-body-border}*/;
-	color: #ffffff /*{a-body-color}*/;
-	text-shadow: 0 /*{a-body-shadow-x}*/ 1px /*{a-body-shadow-y}*/ 0 /*{a-body-shadow-radius}*/ #444444 /*{a-body-shadow-color}*/;
+	background-color: #11b8ff /*{a-body-background-color}*/;
+	border-color: #09658c /*{a-body-border}*/;
+	color: #000000 /*{a-body-color}*/;
+	text-shadow: 0 /*{a-body-shadow-x}*/ 1px /*{a-body-shadow-y}*/ 0 /*{a-body-shadow-radius}*/ #eeeeee /*{a-body-shadow-color}*/;
 }
 .ui-body-a {
 	border-width: 1px;
@@ -297,10 +297,10 @@ html .ui-bar-a .ui-btn:visited,
 html .ui-body-a .ui-btn:visited,
 html body .ui-group-theme-a .ui-btn:visited,
 html head + body .ui-btn.ui-btn-a:visited {
-	background-color: #9d5d2d /*{a-bup-background-color}*/;
-	border-color: #563318 /*{a-bup-border}*/;
-	color: #ffffff /*{a-bup-color}*/;
-	text-shadow: 0 /*{a-bup-shadow-x}*/ 1px /*{a-bup-shadow-y}*/ 0 /*{a-bup-shadow-radius}*/ #444444 /*{a-bup-shadow-color}*/;
+	background-color: #11b8ff /*{a-bup-background-color}*/;
+	border-color: #09658c /*{a-bup-border}*/;
+	color: #000000 /*{a-bup-color}*/;
+	text-shadow: 0 /*{a-bup-shadow-x}*/ 1px /*{a-bup-shadow-y}*/ 0 /*{a-bup-shadow-radius}*/ #eeeeee /*{a-bup-shadow-color}*/;
 }
 /* Button hover */
 .ui-page-theme-a .ui-btn:hover,
@@ -308,10 +308,10 @@ html .ui-bar-a .ui-btn:hover,
 html .ui-body-a .ui-btn:hover,
 html body .ui-group-theme-a .ui-btn:hover,
 html head + body .ui-btn.ui-btn-a:hover {
-	background-color: #b46a33 /*{a-bhover-background-color}*/;
-	border-color: #633a1c /*{a-bhover-border}*/;
-	color: #ffffff /*{a-bhover-color}*/;
-	text-shadow: 0 /*{a-bhover-shadow-x}*/ 1px /*{a-bhover-shadow-y}*/ 0 /*{a-bhover-shadow-radius}*/ #444444 /*{a-bhover-shadow-color}*/;
+	background-color: #13d3FF /*{a-bhover-background-color}*/;
+	border-color: #0a748c /*{a-bhover-border}*/;
+	color: #000000 /*{a-bhover-color}*/;
+	text-shadow: 0 /*{a-bhover-shadow-x}*/ 1px /*{a-bhover-shadow-y}*/ 0 /*{a-bhover-shadow-radius}*/ #eeeeee /*{a-bhover-shadow-color}*/;
 }
 /* Button down */
 .ui-page-theme-a .ui-btn:active,
@@ -319,10 +319,10 @@ html .ui-bar-a .ui-btn:active,
 html .ui-body-a .ui-btn:active,
 html body .ui-group-theme-a .ui-btn:active,
 html head + body .ui-btn.ui-btn-a:active {
-	background-color: #b46a33 /*{a-bdown-background-color}*/;
-	border-color: #633a1c /*{a-bdown-border}*/;
-	color: #ffffff /*{a-bdown-color}*/;
-	text-shadow: 0 /*{a-bdown-shadow-x}*/ 1px /*{a-bdown-shadow-y}*/ 0 /*{a-bdown-shadow-radius}*/ #444444 /*{a-bdown-shadow-color}*/;
+	background-color: #13d3FF /*{a-bdown-background-color}*/;
+	border-color: #0a748c /*{a-bdown-border}*/;
+	color: #000000 /*{a-bdown-color}*/;
+	text-shadow: 0 /*{a-bdown-shadow-x}*/ 1px /*{a-bdown-shadow-y}*/ 0 /*{a-bdown-shadow-radius}*/ #eeeeee /*{a-bdown-shadow-color}*/;
 }
 /* Active button */
 .ui-page-theme-a .ui-btn.ui-btn-active,
