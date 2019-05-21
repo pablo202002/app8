@@ -5,10 +5,10 @@
    id  = "com.phonegap.app8"
    version ="1.0.0">
    
-   <name> app6 Deslizar hacia la Izquierda y a la Derecha</name>
+   <name> app8 Geolocalizacion de google maps</name>
    
    <description>
-   Aplicación que realiza el swipe o el deslizamiento
+   Muestra tu ubicacion del dispositivo de acuerdo al gps y el mapa de google maps
    </description>
    
    <author href="https://build.phonegap.com" email="pablinskyprogg@gmail.com">
@@ -39,11 +39,9 @@
   <acces origin="http://*/*"/>
   <plugin name="cordova-plugin-whitelist" source="npm"/>
   
-  <plugin name="cordova-plugin-geolocation" source="npm" />
-  
   
   <!-- Colocar icono app -->
-  <icon src="res/android/mdpi.png" />
+  <icon src="res/android/mdpi.png"/>
   </widget>
    
    
